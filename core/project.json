@@ -1,0 +1,12 @@
+{
+  "targets": {
+    "test1": {
+      "command": "echo hello"
+    },
+    "test3": {
+      "command": "echo hello2"
+    }
+  },
+  "implicitDependencies": ["seata-plugin"]
+}
+Z

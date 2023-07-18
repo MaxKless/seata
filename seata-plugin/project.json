@@ -1,0 +1,7 @@
+{
+  "targets": {
+    "test1": {
+      "command": "echo hello"
+    }
+  }
+}

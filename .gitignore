@@ -53,3 +53,6 @@ Thumbs.db
 
 #h2
 *.db
+
+.nx/installation
+.nx/cache
